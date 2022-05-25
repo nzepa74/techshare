@@ -8,7 +8,7 @@
     <name>development</name>
 
     <properties>
-        <spring.version>5.2.6.RELEASE</spring.version>
+        <spring.version>5.2.22.RELEASE</spring.version>
         <security.version>5.2.2.RELEASE</security.version>
         <java.version>1.8</java.version>
     </properties>
